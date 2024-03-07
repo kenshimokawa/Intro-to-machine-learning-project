@@ -1,3 +1,2 @@
 # Intro-to-machine-learning-project
-bah bafhgj
-12345
+I uploaded the first edition of the EDA, open to modify and correct - Ting - 7th March
